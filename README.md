@@ -13,7 +13,13 @@ A simple Flutter application for managing notes locally using an SQLite database
 ---
 
 ## Screenshots 📸
-### (Add screenshots of your app here later!)
+
+### Home Screen
+![Home Screen](screenshots/all_notes.jpeg)
+
+### Add Note BottomSheet
+![Add Note](screenshots/add_note.jpeg)
+
 
 ---
 
